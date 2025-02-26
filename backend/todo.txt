@@ -1,0 +1,3 @@
+- Check if deleting one bag deletes ALL bags for the user
+- Check if adding/deleting bag items works
+- Learn about Variables in Postman (for making authentication easier(?))
