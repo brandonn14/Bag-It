@@ -19,6 +19,9 @@ if exist requirements.txt (
     echo requirements.txt not found!
 )
 
+py manage.py makemigrations
+py manage.py migrate
+
 REM Deactivate virtual environment
 echo Deactivating virtual environment...
 call %VENV_DIR%\Scripts\deactivate
