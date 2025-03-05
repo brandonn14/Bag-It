@@ -1,9 +1,9 @@
-import logo from './assets/pear.png';
-import './Styles.css'
+import logo from '../assets/pear.png';
 import TextField from '@mui/material/TextField';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import ShoppingBagIcon from '@mui/icons-material/ShoppingBag';
 import SearchIcon from '@mui/icons-material/Search';
+import "../styles/Home.css"
 
 //Top panel bar of the homepage. Contains logo, search bar, as well as account&bag icons
 
